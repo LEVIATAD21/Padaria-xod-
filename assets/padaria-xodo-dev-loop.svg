@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Padaria Xodó em desenvolvimento</title><desc id="desc">Interface de pedido e vapor de café animados.</desc>
+  <style>@keyframes scan{0%{transform:translateX(-140px);opacity:0}20%,75%{opacity:.9}100%{transform:translateX(360px);opacity:0}}@keyframes steam{0%{transform:translateY(24px);opacity:0}50%{opacity:.7}100%{transform:translateY(-28px);opacity:0}}.scan{animation:scan 3.8s ease-in-out infinite}.steam{animation:steam 3s ease-in-out infinite}@media(prefers-reduced-motion:reduce){.scan,.steam{animation:none}}</style>
+  <image href="padaria-xodo-dev-hero.png" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect class="scan" x="750" y="238" width="100" height="270" rx="18" fill="#ffe4b0" opacity=".22"/>
+  <path class="steam" d="M990 480c-14-24 14-30 0-56" fill="none" stroke="#ffe9ce" stroke-width="5" stroke-linecap="round"/>
+</svg>

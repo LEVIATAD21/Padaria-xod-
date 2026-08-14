@@ -1,5 +1,7 @@
 # Padaria Xodó
 
+![Loop visual do projeto Padaria Xodó](assets/padaria-xodo-dev-loop.svg)
+
 <p align="center">
   <img src="assets/padaria-xodo-dev-hero.png" alt="Ilustração do projeto full stack Padaria Xodó" width="100%" />
 </p>
