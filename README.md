@@ -1,3 +1,5 @@
+![Motion Banner](assets/motion-banner.gif)
+
 # Padaria Xodó
 
 ![Loop visual do projeto Padaria Xodó](assets/padaria-xodo-dev-loop.svg)
